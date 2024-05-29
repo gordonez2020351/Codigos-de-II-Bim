@@ -47,7 +47,7 @@ const int c = 9;
 const int d = 0;
 const int e = 7;
 const int f = 10;
-const int g = 0;
+const int g = 11;
 
 const int E = 7;
 const int segmentos[E] = {a, b, c, d, e, f, g};
